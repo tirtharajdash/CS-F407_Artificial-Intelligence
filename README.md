@@ -1,4 +1,4 @@
-## Welcome to the AI course (CS F407 | Sem II, AY 2025-26)
+## Welcome to the AI course (CS F407) | Spring 2026
 
 | Instructors               | [Ashwin Srinivasan](https://www.bits-pilani.ac.in/goa/ashwin-srinivasan/) (IC), [Tirtharaj Dash](https://www.bits-pilani.ac.in/goa/tirtharaj-dash) |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
