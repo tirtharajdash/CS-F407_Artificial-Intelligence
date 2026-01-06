@@ -1,2 +1,1 @@
-# CS-F407_Artificial-Intelligence
-CS F407 AI course at BITS Pilani (Goa Campus)
+## Welcome to the AI course (CS F407 | Sem II, AY 2025-26)
