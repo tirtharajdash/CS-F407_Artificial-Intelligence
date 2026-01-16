@@ -15,6 +15,7 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 | Week 1 | L3 | Introduction to Foundation Models II (TD) [Ch1-2](https://github.com/rasbt/LLMs-from-scratch/tree/main), [video](https://www.manning.com/livevideo/master-and-build-large-language-models) |
 | Week 2 | L4 | Intelligent Agents (AS) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/agents.pdf) |
 | Week 2 | L5 | Problem Solving Agents (AS) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/search.pdf) |
+| Week 2 | L6 | Prompt Engineering (TD) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/Prompt-Engineering-Lecture-Elvis.pdf) ([Credit](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/lecture/Prompt-Engineering-Lecture-Elvis.pdf))
 
 ### Lab
 
