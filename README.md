@@ -25,7 +25,7 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 | Lab | Plan |
 | --- | ---- |
 | Lab 0 | Using LLMs to generate code for solving search problems [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab0_pe.py) |
-| Lab 1 | QnA with LLM agents [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab1_Tranducers.ipynb) (Credit: [Riya](https://in.linkedin.com/in/riya-naik-279660108)) |
+| Lab 1 | QnA with LLM agents [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab1_Tranducers.ipynb) (Credit: [Riya](https://in.linkedin.com/in/riya-naik-279660108)); Sudoku [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab1_Sudoku.py) |
 | Lab 2 | Planning with LLM tools |
 
 ### Reading materials
