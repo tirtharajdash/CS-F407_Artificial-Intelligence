@@ -20,7 +20,7 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 |        | NewFAI: LLMs with agents [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/llm_agents.pdf) (credit: [UC Berkeley](https://rdi.berkeley.edu/llm-agents/assets/llm_agent_history.pdf)) |
 | Week 4 | |
 
-### Lab
+### Labs
 
 | Lab | Plan |
 | --- | ---- |
@@ -30,5 +30,10 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 
 ### Reading materials
 
-Will be provided.
+Textbooks:
 
+ - Russell and Norvig: Artificial Intelligence: A Modern Approach (any edition will work) [book](https://aima.cs.berkeley.edu/)
+ - Huyen: AI Engineering [book](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
+ - Raschka: Build LLM from Scratch [book](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+
+*If you can't get a book, it is okay to just go over the associated github repositories associated with these books. The AIMA book is readily available everywhere (1st-3rd editions).*
