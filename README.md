@@ -3,18 +3,18 @@
 | Instructors               | [Ashwin Srinivasan](https://www.bits-pilani.ac.in/goa/ashwin-srinivasan/) (IC), [Tirtharaj Dash](https://www.bits-pilani.ac.in/goa/tirtharaj-dash) |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 
-The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/handouts). This course lectures will be interleaved between "Good Old Fashioned AI" (GOFAI) and "New Fashioned AI" (NewFAI).
+The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/handouts). The course lectures will be interleaved between "Good Old Fashioned AI" (GOFAI) and "New Fashioned AI" (NewFAI). GOFAI lectures will be taken by AS (mostly) and NewFAI lectures will be taken by TD (mostly).
 
 ### Lectures
 
 | Week | Content |
 | ---- | ------- |
-| Week 1 | Introduction to AI (Past, Present, Future) (AS) |
-|        | NewFAI: Introduction to Foundation Models I (TD) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/introfm.pdf) |
-|        | NewFAI: Introduction to Foundation Models II (TD) [Ch1-2](https://github.com/rasbt/LLMs-from-scratch/tree/main), [video](https://www.manning.com/livevideo/master-and-build-large-language-models) |
-| Week 2 | GOFAI: Intelligent Agents (AS) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/agents.pdf) |
-|        | GOFAI: Problem Solving Agents (AS) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/search.pdf) |
-|        | NewFAI: Prompt Engineering (TD) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/Prompt-Engineering-Lecture-Elvis.pdf) ([Credit](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/lecture/Prompt-Engineering-Lecture-Elvis.pdf)) |
+| Week 1 | Introduction to AI (Past, Present, Future)  |
+|        | NewFAI: Introduction to Foundation Models I [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/introfm.pdf) |
+|        | NewFAI: Introduction to Foundation Models II [Ch1-2](https://github.com/rasbt/LLMs-from-scratch/tree/main), [video](https://www.manning.com/livevideo/master-and-build-large-language-models) |
+| Week 2 | GOFAI: Intelligent Agents [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/agents.pdf) |
+|        | GOFAI: Problem Solving Agents [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/search.pdf) |
+|        | NewFAI: Prompt Engineering [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/Prompt-Engineering-Lecture-Elvis.pdf) ([Credit](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/lecture/Prompt-Engineering-Lecture-Elvis.pdf)) |
 | Week 3 | Stuart Russell's Reith Lecture Part 1 [view](https://drive.google.com/drive/folders/1ajX6bcYkjXp9zKWnJ4deQr62xVNmhPZm?usp=drive_link) |
 |        | GOFAI: More on [search](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/search_extra01.pdf) and [agents](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/logical_agents.pdf) | 
 |        | NewFAI: LLMs with agents [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/llm_agents.pdf) (credit: [UC Berkeley](https://rdi.berkeley.edu/llm-agents/assets/llm_agent_history.pdf)) |
@@ -36,4 +36,4 @@ Textbooks:
  - Huyen: AI Engineering [book](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
  - Raschka: Build LLM from Scratch [book](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 
-*If you can't get a book, it is okay to just go over the associated github repositories associated with these books. The AIMA book is readily available everywhere (1st-3rd editions).*
+*If you can't get a book, it is okay to just go over the associated GitHub repositories associated with these books. The AIMA book is readily available everywhere (1st-3rd editions).*
