@@ -75,3 +75,7 @@ Select ONE task from the following:
 ### Weight
 
 Total: 20. But, we may introduce a BONUS component (10% = 2) which depends on many factors: TBA.
+
+### Deadline
+
+Around the first week of April, 2026. Presentation slots will be decided at a later stage.

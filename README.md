@@ -3,7 +3,7 @@
 | Instructors               | [Ashwin Srinivasan](https://www.bits-pilani.ac.in/goa/ashwin-srinivasan/), [Tirtharaj Dash](https://www.bits-pilani.ac.in/goa/tirtharaj-dash) |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 
-The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/handouts). The course lectures will be interleaved between "Good Old Fashioned AI" (GOFAI) and "New Fashioned AI" (NewFAI). GOFAI lectures will be taken by AS (mostly) and NewFAI lectures will be taken by TD (mostly).
+The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/handouts). The course lectures will be interleaved between "Good Old Fashioned AI" (GOFAI) and "New Fashioned AI" (NewFAI). GOFAI lectures will be taken by AS (mostly), and NewFAI lectures will be taken by TD (mostly). The official course portal will be Moodle: [click here](https://quantaaws.bits-goa.ac.in/course/view.php?id=3980). This GitHub repository is a secondary source for almost everything about the course and can be used by students who are not officially registered.
 
 ### Lectures
 
@@ -31,7 +31,7 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 
 ### Course Project
 
-You can find the course project problem statement [here](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/project/prob.md). The project weighs $20%$ of your course total and may be a bonus weight. So work on it well.  
+You can find the course project problem statement [here](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/project/prob.md). The project weighs $20%$ of your course total and may be a bonus weight. So work on it well. And, the deadline is around the first week of April, 2026. So, do get started asap.
 
 ### Reading materials
 
