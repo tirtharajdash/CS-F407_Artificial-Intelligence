@@ -1,4 +1,4 @@
-## Course Project: Building a Language Model from Scratch and Applying it in Science or Engineering
+## Project: Building an LLM from Scratch and Applying it in Science or Engineering
 
 You are to work on a major project to build (1) a large language model (LLM) from scratch (meaning, coding yourself
 every internal mechanism of it) and (2) apply the built model in a scientific setting (see below).
