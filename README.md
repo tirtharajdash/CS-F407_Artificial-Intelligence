@@ -30,10 +30,13 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 
 ### Reading materials
 
-Textbooks:
+Textbooks: Some are below that we like. You are free to read other books.
 
  - Russell and Norvig: Artificial Intelligence: A Modern Approach (any edition will work) [book](https://aima.cs.berkeley.edu/)
  - Huyen: AI Engineering [book](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
  - Raschka: Build LLM from Scratch [book](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+
+Some relevant tutorials we (TD and AS) developed with our TAs back in the early 2020s. They still work, surprisingly, and are still very useful.
+You can use this link ([BITS F464 Lab and Tutorial link](https://bits-f464.github.io/)) to access for lab and tutorial on Python and tutorials on Probability models and Bayesian Networks, etc.
 
 *If you can't get a book, it is okay to just go over the associated GitHub repositories associated with these books. The AIMA book is readily available everywhere (1st-3rd editions).*
