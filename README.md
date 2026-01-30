@@ -1,6 +1,6 @@
 ## Welcome to the AI course (CS F407) | Spring 2026
 
-| Instructors               | [Ashwin Srinivasan](https://www.bits-pilani.ac.in/goa/ashwin-srinivasan/) (IC), [Tirtharaj Dash](https://www.bits-pilani.ac.in/goa/tirtharaj-dash) |
+| Instructors               | [Ashwin Srinivasan](https://www.bits-pilani.ac.in/goa/ashwin-srinivasan/), [Tirtharaj Dash](https://www.bits-pilani.ac.in/goa/tirtharaj-dash) |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 
 The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/handouts). The course lectures will be interleaved between "Good Old Fashioned AI" (GOFAI) and "New Fashioned AI" (NewFAI). GOFAI lectures will be taken by AS (mostly) and NewFAI lectures will be taken by TD (mostly).
@@ -44,4 +44,4 @@ Textbooks: Some are below that we like. You are free to read other books.
 Some relevant tutorials we (TD and AS) developed with our TAs back in the early 2020s. They still work, surprisingly, and are still very useful.
 You can use this link ([BITS F464 Lab and Tutorial link](https://bits-f464.github.io/)) to access for lab and tutorial on Python and tutorials on Probability models and Bayesian Networks, etc.
 
-*If you can't get a book, it is okay to just go over the associated GitHub repositories associated with these books. The AIMA book is readily available everywhere (1st-3rd editions).*
+*If you can't get a book, it is okay to just go over the GitHub repositories or any other materials that you can find associated with these books. The AIMA book is readily available everywhere (1st-3rd editions).*

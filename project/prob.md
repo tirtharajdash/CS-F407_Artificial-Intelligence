@@ -10,12 +10,19 @@ Build a generative language model from scratch. You may choose either:
 - Encoder-decoder architecture
 - Decoder-only architecture
 
-**Reference**: Sebastian Raschka's book on building LLMs
+**Reference**: 
+- Build a LLM from Scratch [Raschka](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+- Hands-on LLM [Alammar and Grootendorst](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/)
+
+We are aware that these books may not be available freely anywhere. But there are plenty of videos on each
+chapter or the whole book. You can even find hours-long videos by the authors on YouTube. Please let me (TD) know
+if you are struggling with locating materials.
 
 **Requirements**:
-- Implement core components (attention mechanism, positional encoding, feedforward layers)
+- Implement core components (attention mechanism, positional encoding, feedforward layers, etc.)
 - Implement training loop with appropriate loss function
 - Document architecture choices and hyperparameters
+- Each of these must be well documented in your report and PPT
 
 ### Part 2: Application Task
 
@@ -32,7 +39,7 @@ Select ONE task from the following:
 - Measure translation accuracy
 
 #### 2.3 Multilingual Text Generation
-- Use AI4Bharat dataset from HuggingFace: [see here](https://huggingface.co/ai4bharat)
+- You can use specific language datasets from [AI4Bharat dataset](https://huggingface.co/ai4bharat) on HuggingFace
 - Generate coherent text in target language(s)
 - Evaluate generation quality
 
@@ -42,7 +49,7 @@ Select ONE task from the following:
 
 ### Team size
 - You can work alone (which is not advisable) or in a group of a minimum of 2 or a maximum of 3 students. If you work
-   in a group then each student in the group will be judged based on the their group performance in the project.
+   in a group, then each student in the group will be judged based on their group's performance in the project.
 
 ### Deliverables
 
@@ -67,5 +74,4 @@ Select ONE task from the following:
 
 ### Weight
 
-Total: 20. 
-But, we may introduce a BONUS component (10% = 2) which depends on many factors: TBA.
+Total: 20. But, we may introduce a BONUS component (10% = 2) which depends on many factors: TBA.
