@@ -28,6 +28,11 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 | Lab 1 | QnA with LLM agents [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab1_Tranducers.ipynb) (Credit: [Riya](https://in.linkedin.com/in/riya-naik-279660108)); Sudoku [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab1_Sudoku.py) |
 | Lab 2 | Planning with LLM tools |
 
+
+### Course Project
+
+You can find the course project problem statement [here](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/project/prob.md). The project weighs $20%$ of your course total and may be a bonus weight. So work on it well.  
+
 ### Reading materials
 
 Textbooks: Some are below that we like. You are free to read other books.
