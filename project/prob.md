@@ -22,7 +22,7 @@ Build a generative language model from scratch. You may choose either:
 Select ONE task from the following:
 
 #### 2.1 Novel Molecule Generation
-- Pretrain on molecular datasets (ZINC or ChEMBL database)
+- Pretrain on molecular datasets ([ZINC](https://zinc.docking.org/) or [ChEMBL](https://www.ebi.ac.uk/chembl/) database)
 - Generate valid molecular structures
 - Evaluate generated molecules for chemical validity
 
@@ -32,7 +32,7 @@ Select ONE task from the following:
 - Measure translation accuracy
 
 #### 2.3 Multilingual Text Generation
-- Use AI4Bharat dataset from HuggingFace
+- Use AI4Bharat dataset from HuggingFace: [see here](https://huggingface.co/ai4bharat)
 - Generate coherent text in target language(s)
 - Evaluate generation quality
 
