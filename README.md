@@ -18,7 +18,12 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 | Week 3 | Stuart Russell's Reith Lecture Part 1 [view](https://drive.google.com/drive/folders/1ajX6bcYkjXp9zKWnJ4deQr62xVNmhPZm?usp=drive_link) |
 |        | GOFAI: More on [search](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/search_extra01.pdf) and [agents](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/logical_agents.pdf) | 
 |        | NewFAI: LLMs with agents [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/llm_agents.pdf) (credit: [UC Berkeley](https://rdi.berkeley.edu/llm-agents/assets/llm_agent_history.pdf)) |
-| Week 4 | |
+| Week 4 | GOFAI: Probabilistic Intelligence (Basics} [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/probintro.pdf) |
+|        | GOFAI: Probabilistic Intelligence (Representation) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/joint.pdf) | 
+|        | GOFAI: Probabilistic Intelligence (Inference) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/probinf.pdf) |
+| Week 5 | NewFAI: LLMs with tools (1) [paper](https://neurips.cc/virtual/2023/poster/71288)|
+|        | NewFAI: LLMs with tools (2) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/llm_tools.pdf) (Credit: [Yu Meng@UVA](https://yumeng5.github.io/teaching-service/) |
+| Week 6 | GOFAI: Probabilistic Intelligence (Autoregressive Models) [slides](ar.pdf) |
 
 ### Labs
 
@@ -26,7 +31,7 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 | --- | ---- |
 | Lab 0 | Using LLMs to generate code for solving search problems [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab0_pe.py) |
 | Lab 1 | QnA with LLM agents [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab1_Tranducers.ipynb) (Credit: [Riya](https://in.linkedin.com/in/riya-naik-279660108)); Sudoku [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab1_Sudoku.py) |
-| Lab 2 | Planning with LLM tools |
+| Lab 2 | Planning with LLM tools | *in preparation* |
 
 
 ### Course Project
