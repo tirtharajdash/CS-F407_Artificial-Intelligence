@@ -23,6 +23,7 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 |        | GOFAI: Probabilistic Intelligence (Inference) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/probinf.pdf) |
 | Week 5 | NewFAI: LLMs with tools (1) [paper](https://neurips.cc/virtual/2023/poster/71288)|
 |        | NewFAI: LLMs with tools (2) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/llm_tools.pdf) (Credit: [Yu Meng@UVA](https://yumeng5.github.io/teaching-service/)) |
+|        | NewFAI: LLMs calling tools (3) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/llm_tools_lect.pdf) |
 | Week 6 | GOFAI: Probabilistic Intelligence (Autoregressive Models) [slides](ar.pdf) |
 
 ### Labs
@@ -31,7 +32,8 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 | --- | ---- |
 | Lab 0 | Using LLMs to generate code for solving search problems [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab0_pe.py) |
 | Lab 1 | QnA with LLM agents [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab1_Tranducers.ipynb) (Credit: [Riya](https://in.linkedin.com/in/riya-naik-279660108)); Sudoku [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab1_Sudoku.py) |
-| Lab 2 | Planning with LLM tools | *in preparation* |
+| Lab 2 | Planning with LLM tools [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab2_Tools.md) |
+| Lab 3 | *in prep* |
 
 
 ### Course Project
