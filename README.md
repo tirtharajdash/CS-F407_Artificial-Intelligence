@@ -22,7 +22,7 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 |        | GOFAI: Probabilistic Intelligence (Representation) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/joint.pdf) | 
 |        | GOFAI: Probabilistic Intelligence (Inference) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/probinf.pdf) |
 | Week 5 | NewFAI: LLMs with tools (1) [paper](https://neurips.cc/virtual/2023/poster/71288)|
-|        | NewFAI: LLMs with tools (2) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/llm_tools.pdf) (Credit: [Yu Meng@UVA](https://yumeng5.github.io/teaching-service/) |
+|        | NewFAI: LLMs with tools (2) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/llm_tools.pdf) (Credit: [Yu Meng@UVA](https://yumeng5.github.io/teaching-service/)) |
 | Week 6 | GOFAI: Probabilistic Intelligence (Autoregressive Models) [slides](ar.pdf) |
 
 ### Labs
