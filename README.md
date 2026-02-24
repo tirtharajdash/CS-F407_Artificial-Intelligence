@@ -24,7 +24,10 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 | Week 5 | NewFAI: LLMs with tools (1) [paper](https://neurips.cc/virtual/2023/poster/71288)|
 |        | NewFAI: LLMs with tools (2) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/llm_tools.pdf) (Credit: [Yu Meng@UVA](https://yumeng5.github.io/teaching-service/)) |
 |        | NewFAI: LLMs calling tools (3) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/llm_tools_lect.pdf) |
-| Week 6 | GOFAI: Probabilistic Intelligence (Autoregressive Models) [slides](ar.pdf) |
+| Week 6 | GOFAI: Probabilistic Intelligence (Autoregressive Models) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/ar.pdf) |
+|        | GOFAI: Probabilistic Intelligence (Latent Variable Models) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/latent.pdf) |
+| Week 7 | NewFAI: LLM with RAG [slides]() |
+|        | NewFAI: Fine-tuning [slides]() | 
 
 ### Labs
 
