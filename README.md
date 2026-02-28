@@ -23,11 +23,15 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 |        | GOFAI: Probabilistic Intelligence (Inference) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/probinf.pdf) |
 | Week 5 | NewFAI: LLMs with tools (1) [paper](https://neurips.cc/virtual/2023/poster/71288)|
 |        | NewFAI: LLMs with tools (2) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/llm_tools.pdf) (Credit: [Yu Meng@UVA](https://yumeng5.github.io/teaching-service/)) |
-|        | NewFAI: LLMs calling tools (3) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/llm_tools_lect.pdf) |
+|        | NewFAI: LLMs calling tools [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/llm_tools_lect.pdf) |
+|        | Stuart Russell's Reith Lecture Part 2 [view](https://drive.google.com/drive/folders/1ajX6bcYkjXp9zKWnJ4deQr62xVNmhPZm?usp=drive_link) |
 | Week 6 | GOFAI: Probabilistic Intelligence (Autoregressive Models) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/ar.pdf) |
 |        | GOFAI: Probabilistic Intelligence (Latent Variable Models) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/latent.pdf) |
 | Week 7 | NewFAI: LLM with RAG [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/llm_rag.pdf) |
-|        | NewFAI: Fine-tuning [slides]() | 
+|        | NewFAI: Fine-tuning [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/ft.pdf) | 
+| Week 8 | Stuart Russell's Reith Lecture Part 3 [view](https://drive.google.com/drive/folders/1ajX6bcYkjXp9zKWnJ4deQr62xVNmhPZm?usp=drive_link) |
+|        | Neural Intelligence (*to be added*) |
+|        | Deep Learning (*to be added*) |
 
 ### Labs
 
@@ -37,7 +41,7 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 | Lab 1 | QnA with LLM agents [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab1_Tranducers.ipynb) (Credit: [Riya](https://in.linkedin.com/in/riya-naik-279660108)); Sudoku [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab1_Sudoku.py) |
 | Lab 2 | Planning with LLM tools [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab2_Tools.md) |
 | Lab 3 | LLM with RAG [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab3) |
-| Lab 4 | *in prep* |
+| Lab 4 | Homework: Take any open-source LLM and fine-tune for prediction tasks |
 
 
 ### Course Project
