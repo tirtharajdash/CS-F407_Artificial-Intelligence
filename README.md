@@ -31,9 +31,9 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 |        | NewFAI: Fine-tuning [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/ft.pdf) | 
 | Week 8 | Stuart Russell's Reith Lecture Part 3 [view](https://drive.google.com/drive/folders/1ajX6bcYkjXp9zKWnJ4deQr62xVNmhPZm?usp=drive_link) |
 |        | Tutorial (pre-midsem discussions) |
-|        | Mid-semester exam (March 9, 2026) | 
-| Week 9 | Neural Intelligence [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/neur_intell.pdf) |
-|        | Deep Learning (*to be added*) |
+|        | **Mid-semester exam, including Turing's paper as test (March 9, 2026)** | 
+| Week 9 | GOFAI: Neural Intelligence (also: NewFAI: Intro to Deep Learning) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/neur_intell.pdf) |
+|        | NewFAI: Deep Learning (Transformers) [notebook](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/blob/main/notebooks/dash/transformer.ipynb) |
 
 ### Labs
 
@@ -44,6 +44,7 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 | Lab 2 | Planning with LLM tools [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab2_Tools.md) |
 | Lab 3 | LLM with RAG [code](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/labs/Lab3) |
 | Lab 4 | Homework: Take any open-source LLM and fine-tune for prediction tasks |
+| Lab 5 | Implementation of an Enc-Dec transformer from scratch [notebook](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/blob/main/notebooks/dash/transformer.ipynb) | 
 
 
 ### Course Project
