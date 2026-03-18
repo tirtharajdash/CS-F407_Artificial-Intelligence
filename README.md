@@ -17,7 +17,7 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 |        | NewFAI: Prompt Engineering [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/Prompt-Engineering-Lecture-Elvis.pdf) ([Credit](https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/lecture/Prompt-Engineering-Lecture-Elvis.pdf)) |
 | Week 3 | Stuart Russell's Reith Lecture Part 1 [view](https://drive.google.com/drive/folders/1ajX6bcYkjXp9zKWnJ4deQr62xVNmhPZm?usp=drive_link) |
 |        | GOFAI: More on [search](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/search_extra01.pdf) and [agents](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/logical_agents.pdf) | 
-|        | NewFAI: LLMs with agents [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/llm_agents.pdf) (credit: [UC Berkeley](https://rdi.berkeley.edu/llm-agents/assets/llm_agent_history.pdf)) |
+|        | NewFAI: LLMs as agents [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/llm_agents.pdf) (credit: [UC Berkeley](https://rdi.berkeley.edu/llm-agents/assets/llm_agent_history.pdf)) |
 | Week 4 | GOFAI: Probabilistic Intelligence (Basics} [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/probintro.pdf) |
 |        | GOFAI: Probabilistic Intelligence (Representation) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/joint.pdf) | 
 |        | GOFAI: Probabilistic Intelligence (Inference) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/probinf.pdf) |
@@ -30,7 +30,9 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 | Week 7 | NewFAI: LLM with RAG [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/llm_rag.pdf) |
 |        | NewFAI: Fine-tuning [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/ft.pdf) | 
 | Week 8 | Stuart Russell's Reith Lecture Part 3 [view](https://drive.google.com/drive/folders/1ajX6bcYkjXp9zKWnJ4deQr62xVNmhPZm?usp=drive_link) |
-|        | Neural Intelligence (*to be added*) |
+|        | Tutorial (pre-midsem discussions) |
+|        | Mid-semester exam (March 9, 2026) | 
+| Week 9 | Neural Intelligence [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/neur_intell.pdf) |
 |        | Deep Learning (*to be added*) |
 
 ### Labs
