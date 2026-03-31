@@ -34,6 +34,7 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 |        | **Mid-semester exam, including Turing's paper as test (March 9, 2026)** | 
 | Week 9 | GOFAI: Neural Intelligence (also: NewFAI: Intro to Deep Learning) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/neur_intell.pdf) |
 |        | NewFAI: Deep Learning (Transformers) [notebook](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/blob/main/notebooks/dash/transformer.ipynb) |
+| Week 10 | GOFAI: Reward-based Intelligence [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/ql.pdf) |
 
 ### Labs
 
@@ -46,6 +47,7 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 | Lab 4 | Homework: Take any open-source LLM and fine-tune for prediction tasks |
 | Lab 5 | Implementation of an Enc-Dec transformer from scratch [notebook](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/blob/main/notebooks/dash/transformer.ipynb) | 
 | Lab 6 | Understanding word and sentence embeddings, retrieval [notebook](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/blob/main/notebooks/dash/repr_learn.ipynb) |
+| Lab 7 | Q-learning: Treasure Hunt [notebook](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/blob/main/notebooks/dash/Q_learning_grid_world.ipynb) |
 
 
 ### Course Project
