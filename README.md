@@ -36,6 +36,10 @@ The course handout can be found [here](https://github.com/tirtharajdash/CS-F407_
 |        | NewFAI: Deep Learning (Transformers) [notebook](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/blob/main/notebooks/dash/transformer.ipynb) |
 | Week 10 | GOFAI: Reward-based Intelligence [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/rl.pdf) |
 |         | NewFAI: Deep Reinforcement Learning [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/deep_rl.pdf) |
+|         | NewFAI: Reinforcement Learning from Human Feedback [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/rlhf.pdf) |
+| Week 11 | GOFAI: Learning for Logical Intelligence [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/learn_logic.pdf) |
+|         | GOFAI: Learning for Probabilistic Intelligence [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/learn_prob.pdf) |
+|         | NewFAI: Learning for Neural Intelligence (AR models) [slides](https://github.com/tirtharajdash/CS-F407_Artificial-Intelligence/tree/main/lectures/learn_ar.pdf) |
 
 ### Labs
 
